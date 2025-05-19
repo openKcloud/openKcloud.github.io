@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-#Disallow: /PrivateData
-
-Sitemap: https://gedge-platform.github.io/sitemap.xml
