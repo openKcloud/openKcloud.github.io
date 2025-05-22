@@ -1,65 +1,39 @@
-# Developer's Note: This is a sample _config.yml file offered with
-# jekyll-theme-prologue for your convenience. To use it, move it to your
-# project's root directory. Please note that the following lines are
-# NECESSARY for Prologue to work correctly:
-#
-# theme: jekyll-theme-prologue
-# collections: [sections]
-#
-# They activate the theme and tell Jekyll to find your homepage content
-# in /_sections. Note where "sections" starts with an underscore
-# and where it doesn't. The social settings will make links to
-# Twitter, etc., but only if you give the URL.
-#
-# Also, be sure to customize url and baseurl for your site.
-#
-# ---------------------------------------------------------------
-#
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# which you are expected to set up once and rarely edit after that.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
 
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
+# are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: openKcloud Platform
-subtitle: AI Semiconductor Cloud Platform
-description: >- # this means to ignore newlines until "baseurl:"
-  Development of an AI semiconductor-based cloud service platform and optimization technologies 
-  that ensure optimal performance and cost efficiency for providing high-performance, 
-  low-power hyperscale AI model services.
-author: openKcloud Commnunity
-email: openKcloud@gmail.com
-avatar: assets/images/logo3.jpg
 
-# You'll want to customize url and baseurl for your own site:
+theme: jekyll-agency
+
+url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://openkcloud.github.io" # the base hostname & protocol for your site
 
-# Social settings
-# Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
-twitter_url:
-facebook_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-github_url:
-stackoverflow_url:
-pinterest_url:slack_url:
-dribbble_url:
+title      : openKcloud Platform
+email      : your-email@example.com #this is also the email contact forms will go to
+description: "Site description"
+author     : Your Name
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
 
-# Google Analytics Tracking ID goes here:
-google_analytics:
+locale: "en-US" # See available languages in _data/sitetext.yml
 
-# The following settings are NECESSARY for the Prologue theme to run:
-#theme: jekyll-theme-prologue
-remote_theme: chrisbobbe/jekyll-theme-prologue
-collections: [sections]
+analytics:
+  google: #Google Analytics tracking code here
+
+collections:
+  portfolio:
+
+markdown: kramdown
+
+# Uncomment following line to use Formspree form ID based URL instead of email based URL
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+# formspree_form_path: "f/a_form_id"
