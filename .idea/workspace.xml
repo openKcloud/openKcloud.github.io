@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89eb831-2773-4343-869a-d1eba1c4478a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-prologue.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/jekyll-theme-prologue.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sections/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sections/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/intro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sections/welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/welcome-to-jekyll.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reading-list.md" beforeDir="false" afterPath="$PROJECT_DIR$/reading-list.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

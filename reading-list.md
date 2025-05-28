@@ -1,6 +1,6 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Downloads
+subtitle: openKcloud OpenSource Download
 layout: "page"
 icon: fa-book
 order: 3
