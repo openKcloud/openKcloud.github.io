@@ -1,5 +1,5 @@
 ---
-title: [공지] openKcloud 1th 오픈 컨퍼런스 개최(7/17, 목)
+title: 1st conference
 author: openKcloud
 layout: post
 ---
