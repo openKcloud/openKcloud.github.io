@@ -1,17 +1,15 @@
 ---
 title: Downloads
-subtitle: openKcloud 공개버전 다운로드
 layout: "page"
 icon: fa-download
 order: 3
 ---
 
-<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <title>공개SW대상 자료 다운로드</title>
-  <style>
+  <title>openKcloud 공개SW대상 자료 다운로드</title>
+   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
       padding: 2em;
@@ -34,6 +32,7 @@ order: 3
 
     .conference h2 {
       color: #1a73e8;
+      font-size: 1.2em;
       border-bottom: 1px solid #ddd;
       padding-bottom: 0.3em;
     }
@@ -42,7 +41,7 @@ order: 3
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 0.75em 0;
+      padding: 0.4em 0;
       border-bottom: 1px solid #eee;
     }
 
@@ -52,13 +51,15 @@ order: 3
 
     .download-item span {
       font-weight: 500;
+      font-size: 0.95em;
     }
 
     .download-item a {
       background-color: #3498db;
       color: white;
       text-decoration: none;
-      padding: 0.45em 1em;
+      font-size: 0.85em;
+      padding: 0.3em 0.8em;
       border-radius: 6px;
       transition: background-color 0.3s ease;
     }
