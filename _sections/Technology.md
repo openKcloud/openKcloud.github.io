@@ -1,6 +1,7 @@
 ---
 title: Technology
 icon: fa-cloud
+auto-header: none
 order: 4
 ---
 
