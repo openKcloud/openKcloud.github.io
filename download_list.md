@@ -77,7 +77,7 @@ order: 3
   <section class="conference">
     <h2>openKcloud v0.2.0 (2026.12.15)</h2>
     <div class="download-item">
-      <span>v0.2.0 소스 코드(ZIP 파일)</span>
+      <span>v0.1.0 소스 코드(ZIP 파일)</span>
       <a href="downloads/2024/source-code.zip" download>다운로드</a>
     </div>
     <div class="download-item">
@@ -96,14 +96,18 @@ order: 3
 
    <!-- 2025 제1회 컨퍼런스 -->
   <section class="conference">
-     <h2>openKcloud v0.1.0 (2026.07.15)</h2>
+     <h2>openKcloud v0.1.0 (2025.07.15)</h2>
      <div class="download-item">
       <span>v0.1.0 기술 문서 (PDF)</span>
       <a href="downloads/2024/documentation.pdf" download>다운로드</a>
     </div>
     <div class="download-item">
-      <span>발표 자료 (PPTX)</span>
+      <span>공개 SW 컨퍼런스 발표 자료 (PPTX)</span>
       <a href="downloads/2024/presentation.pptx" download>다운로드</a>
+    </div>
+    <div class="download-item">
+      <span>공개 SW 컨퍼런스 발표 영상 (MP4)</span>
+      <a href="downloads/2025/presentation.pptx" download>다운로드</a>
     </div>
   </section>
 
