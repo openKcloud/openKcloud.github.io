@@ -1,6 +1,6 @@
 ---
 title: Downloads
-subtitle: openKcloud OpenSource Download
+subtitle: openKcloud 공개버전 다운로드
 layout: "page"
 icon: fa-book
 order: 3
