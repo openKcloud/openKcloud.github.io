@@ -71,7 +71,7 @@ order: 3
 </head>
 <body>
 
-  <h2>openKcloud 공개SW대상 컨퍼런스 자료 다운로드</h2>
+  <h3>openKcloud 공개SW대상 컨퍼런스 자료 다운로드</h3>
 
   <!-- 2025 제2회 컨퍼런스 -->
   <section class="conference">
