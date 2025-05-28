@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89eb831-2773-4343-869a-d1eba1c4478a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_sections/Technology.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/Technology.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/jekyll-theme-prologue.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/jekyll-theme-prologue.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
