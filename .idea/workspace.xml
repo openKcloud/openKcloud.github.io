@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e89eb831-2773-4343-869a-d1eba1c4478a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_sections/Technology.html" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/Technology.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2025-07-10-first-conference.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2012-09-12-first-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-09-12-second-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-09-12-third-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-09-12-fourth-post.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
