@@ -41,7 +41,7 @@ order: 3
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 0.4em 0;
+      padding: 0.2em 0; /* ↓ 행 높이 줄임 */
       border-bottom: 1px solid #eee;
     }
 
@@ -51,16 +51,16 @@ order: 3
 
     .download-item span {
       font-weight: 500;
-      font-size: 0.95em;
+      font-size: 0.8em; /* ↓ 글자 크기 줄임 */
     }
 
     .download-item a {
       background-color: #3498db;
       color: white;
       text-decoration: none;
-      font-size: 0.85em;
-      padding: 0.3em 0.8em;
-      border-radius: 6px;
+      font-size: 0.7em;          /* ↓ 버튼 글자 크기 줄임 */
+      padding: 0.15em 0.4em;     /* ↓ 버튼 내부 여백 줄임 */
+      border-radius: 4px;
       transition: background-color 0.3s ease;
     }
 
@@ -71,17 +71,17 @@ order: 3
 </head>
 <body>
 
-  <h1>공개SW대상 컨퍼런스 자료 다운로드</h1>
+  <h2>openKcloud 공개SW대상 컨퍼런스 자료 다운로드</h2>
 
-  <!-- 2024 컨퍼런스 -->
+  <!-- 2025 제2회 컨퍼런스 -->
   <section class="conference">
-    <h2>2024 공개SW대상</h2>
+    <h2>openKcloud v0.1.0</h2>
     <div class="download-item">
-      <span>소스 코드 (ZIP)</span>
+      <span>v0.1.0 소스 코드(ZIP 파일)</span>
       <a href="downloads/2024/source-code.zip" download>다운로드</a>
     </div>
     <div class="download-item">
-      <span>기술 문서 (PDF)</span>
+      <span>v0.1.0 소스 코드(ZIP 파일)기술 문서 (PDF)</span>
       <a href="downloads/2024/documentation.pdf" download>다운로드</a>
     </div>
     <div class="download-item">
