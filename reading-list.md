@@ -2,7 +2,7 @@
 title: Downloads
 subtitle: openKcloud 공개버전 다운로드
 layout: "page"
-icon: fa-book
+icon: fa-download
 order: 3
 ---
 

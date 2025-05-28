@@ -1,6 +1,6 @@
 ---
 title: Technology
-icon: fa-check
+icon: fa-gears
 order: 4
 ---
 
