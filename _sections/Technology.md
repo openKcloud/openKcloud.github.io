@@ -1,6 +1,6 @@
 ---
 title: Technology
-icon: fa-gear
+icon: fa-cloud
 order: 4
 ---
 
