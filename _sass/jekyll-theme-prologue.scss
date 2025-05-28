@@ -685,14 +685,14 @@
 			}
 
 			&.cover {
-				padding: 3.5em 0;
+				padding: 2em 0;
 				position: relative;
 				z-index: 0;
 				img.back {
 					position: absolute;
 					object-fit: cover;
 					width: 100%;
-					height: 90%;
+					height: 70%;
 					left: 0;
 					top: 0;
 					z-index: -1;
